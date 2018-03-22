@@ -8,3 +8,4 @@
 	No javascript
 	No NodeJS
 	No Database	
+	No AJAX
