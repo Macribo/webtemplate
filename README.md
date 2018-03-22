@@ -4,4 +4,7 @@
 
 ## Technology
 
-##
+	plain HTML
+	No javascript
+	No NodeJS
+	No Database	
